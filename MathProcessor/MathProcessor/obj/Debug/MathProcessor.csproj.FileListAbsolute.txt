@@ -1,0 +1,7 @@
+C:\Users\АНАСТАСИЯ\source\repos\MathProcessor\MathProcessor\bin\Debug\MathProcessor.exe.config
+C:\Users\АНАСТАСИЯ\source\repos\MathProcessor\MathProcessor\bin\Debug\MathProcessor.exe
+C:\Users\АНАСТАСИЯ\source\repos\MathProcessor\MathProcessor\bin\Debug\MathProcessor.pdb
+C:\Users\АНАСТАСИЯ\source\repos\MathProcessor\MathProcessor\obj\Debug\MathProcessor.csprojAssemblyReference.cache
+C:\Users\АНАСТАСИЯ\source\repos\MathProcessor\MathProcessor\obj\Debug\MathProcessor.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\source\repos\MathProcessor\MathProcessor\obj\Debug\MathProcessor.exe
+C:\Users\АНАСТАСИЯ\source\repos\MathProcessor\MathProcessor\obj\Debug\MathProcessor.pdb

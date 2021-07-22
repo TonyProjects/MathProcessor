@@ -1,0 +1,13 @@
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\bin\Debug\netcoreapp3.1\ElshinAnton.DataStructures.exe
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\bin\Debug\netcoreapp3.1\ElshinAnton.DataStructures.deps.json
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\bin\Debug\netcoreapp3.1\ElshinAnton.DataStructures.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\bin\Debug\netcoreapp3.1\ElshinAnton.DataStructures.runtimeconfig.dev.json
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\bin\Debug\netcoreapp3.1\ElshinAnton.DataStructures.dll
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\bin\Debug\netcoreapp3.1\ElshinAnton.DataStructures.pdb
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\obj\Debug\netcoreapp3.1\ElshinAnton.DataStructures.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\obj\Debug\netcoreapp3.1\ElshinAnton.DataStructures.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\obj\Debug\netcoreapp3.1\ElshinAnton.DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\obj\Debug\netcoreapp3.1\ElshinAnton.DataStructures.dll
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\obj\Debug\netcoreapp3.1\ElshinAnton.DataStructures.pdb
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\obj\Debug\netcoreapp3.1\ElshinAnton.DataStructures.genruntimeconfig.cache
+C:\Users\АНАСТАСИЯ\source\repos\ElshinAnton.DataStructures\ElshinAnton.DataStructures\obj\Debug\netcoreapp3.1\ElshinAnton.DataStructures.csproj.AssemblyReference.cache
